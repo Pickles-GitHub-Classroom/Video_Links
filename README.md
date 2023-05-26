@@ -6,4 +6,5 @@
 | 05-23-2023 | W01D02   | [Link](https://generalassembly.zoom.us/rec/share/a3jVFxuTv7FhUcAaXyy-1hGeVKPZErxCj7eSy9o9xEsvE0zzIzG0N5STkV0o_Fmd.87t8GdY9C9l3OYuG)| Pickles0522! |
 | 05-24-2023 | W01D02   | [Tips&Tricks&Questions](https://drive.google.com/file/d/1vIduE2-enqE9FqaSFilRzMZ40UEKblFF/view?usp=sharing)| Pickles0522! |
 | 05-24-2023 | W01D03   | [Arrays HW Review](https://generalassembly.zoom.us/rec/share/bu9FaBfcFL56c_caUv-Zcz0sOSx5ccK2KdUqJd5yDSyUEV6zvdm8sdQayFOFpg8Z.q4SCDuyGjpkZCIRw)| Pickles0522! |
-
+| 05-25-2023 | W01D04   | [Objects HW Review](https://generalassembly.zoom.us/rec/share/TLXvpMQpKton9u39c2b3M-MOtMZR9Wzz-VLvyNEXoLVL4zqH6nSvOsVzeXsUbV_U.tsbFVe23x8NOdw82?startTime=1685020001000)| Pickles0522! |
+| 05-25-2023 | W01D04   | [Tips&Tricks&Questions](https://generalassembly.zoom.us/rec/share/TLXvpMQpKton9u39c2b3M-MOtMZR9Wzz-VLvyNEXoLVL4zqH6nSvOsVzeXsUbV_U.tsbFVe23x8NOdw82?startTime=1685022600000)| Pickles0522! |
