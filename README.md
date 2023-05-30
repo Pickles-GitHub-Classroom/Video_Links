@@ -8,3 +8,4 @@
 | 05-24-2023 | W01D03   | [Arrays HW Review](https://generalassembly.zoom.us/rec/share/bu9FaBfcFL56c_caUv-Zcz0sOSx5ccK2KdUqJd5yDSyUEV6zvdm8sdQayFOFpg8Z.q4SCDuyGjpkZCIRw)| Pickles0522! |
 | 05-25-2023 | W01D04   | [Objects HW Review](https://generalassembly.zoom.us/rec/share/TLXvpMQpKton9u39c2b3M-MOtMZR9Wzz-VLvyNEXoLVL4zqH6nSvOsVzeXsUbV_U.tsbFVe23x8NOdw82?startTime=1685020001000)| Pickles0522! |
 | 05-25-2023 | W01D04   | [Tips&Tricks&Questions](https://generalassembly.zoom.us/rec/share/TLXvpMQpKton9u39c2b3M-MOtMZR9Wzz-VLvyNEXoLVL4zqH6nSvOsVzeXsUbV_U.tsbFVe23x8NOdw82?startTime=1685022600000)| Pickles0522! |
+| 05-26-2023 | W01D05   | [CYOA review](https://generalassembly.zoom.us/rec/share/2V3gVmb6Z2X9s4uRSmpWWR1nKjeF4fBow5Z-KW2bcQfT0iCe9GkV5ce37xPctKz2.pUL8e52tknqlaiId?startTime=1685123551000)| Pickles0522! |
