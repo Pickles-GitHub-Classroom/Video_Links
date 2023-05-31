@@ -11,5 +11,5 @@
 | 05-26-2023 | W01D05   | [CYOA review](https://generalassembly.zoom.us/rec/share/2V3gVmb6Z2X9s4uRSmpWWR1nKjeF4fBow5Z-KW2bcQfT0iCe9GkV5ce37xPctKz2.pUL8e52tknqlaiId?startTime=1685123551000)| Pickles0522! |
 | 05-30-2023 | W02D02   | [Space Battle review](https://generalassembly.zoom.us/rec/share/gUYSWJICXOWsJr8jWhut-oe9e0-qtLMY9gxo0Low-VrGl0WSsGZifIucIyjwoNp_.k8QneDrEvICb89x3?startTime=1685452493000)| Pickles0522! |
 | 05-30-2023 | W02D02   | [Tips&Tricks&Questions](https://generalassembly.zoom.us/rec/share/gUYSWJICXOWsJr8jWhut-oe9e0-qtLMY9gxo0Low-VrGl0WSsGZifIucIyjwoNp_.k8QneDrEvICb89x3?startTime=1685453485000)| Pickles0522! |
-
+| 05-30-2023 | W02D02   | [Tips&Tricks&HowToSubmitHomework](https://generalassembly.zoom.us/rec/share/cjndPywjvyF8bQhj1iVmTevpRlUdvCZTs6RDkp7mMyZHtIfss9nAAxy-actqA7Fn.1jszPpOlWMLPCmrI)| Pickles0522! |
 
