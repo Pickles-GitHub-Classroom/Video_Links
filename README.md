@@ -14,3 +14,4 @@
 | 05-30-2023 | W02D02   | [Tips&Tricks&HowToSubmitHomework](https://generalassembly.zoom.us/rec/share/cjndPywjvyF8bQhj1iVmTevpRlUdvCZTs6RDkp7mMyZHtIfss9nAAxy-actqA7Fn.1jszPpOlWMLPCmrI)| Pickles0522! |
 | 05-31-2023 | W02D03   | [Tips&Tricks](https://generalassembly.zoom.us/rec/share/dSF9w1zqjqez-fNDcsWJvKa1lR98KGPr7376ItoJGIhnVgDH911KZQNlegh-_3tM.faB68WDOjFFjqfVf)| Pickles0522! |
 | 05-31-2023 | W02D03   | [Terminal Game Review](https://generalassembly.zoom.us/rec/share/S66I12VFkxIpaqqR83Hwb6VTtHSrYJF4o5uIiROkwNwqkqmSZBQcj2T7d-nfuq0G.-nJ6Kxmn1cESyWur)| Pickles0522! |
+| 06-01-2023 | W02D04   | [jQuery Magic Review](https://generalassembly.zoom.us/rec/share/WcYmuy4pcO_4Jy_T93etuA_jBLiHRAXx0Fh199qeXOYBP6vYtHTKLuBy084k336-.Jukj_tqJqN6AjIIO)| Pickles0522! |
