@@ -12,4 +12,5 @@
 | 05-30-2023 | W02D02   | [Space Battle review](https://generalassembly.zoom.us/rec/share/gUYSWJICXOWsJr8jWhut-oe9e0-qtLMY9gxo0Low-VrGl0WSsGZifIucIyjwoNp_.k8QneDrEvICb89x3?startTime=1685452493000)| Pickles0522! |
 | 05-30-2023 | W02D02   | [Tips&Tricks&Questions](https://generalassembly.zoom.us/rec/share/gUYSWJICXOWsJr8jWhut-oe9e0-qtLMY9gxo0Low-VrGl0WSsGZifIucIyjwoNp_.k8QneDrEvICb89x3?startTime=1685453485000)| Pickles0522! |
 | 05-30-2023 | W02D02   | [Tips&Tricks&HowToSubmitHomework](https://generalassembly.zoom.us/rec/share/cjndPywjvyF8bQhj1iVmTevpRlUdvCZTs6RDkp7mMyZHtIfss9nAAxy-actqA7Fn.1jszPpOlWMLPCmrI)| Pickles0522! |
-
+| 05-31-2023 | W02D03   | [Tips&Tricks](https://generalassembly.zoom.us/rec/share/dSF9w1zqjqez-fNDcsWJvKa1lR98KGPr7376ItoJGIhnVgDH911KZQNlegh-_3tM.faB68WDOjFFjqfVf)| Pickles0522! |
+| 05-31-2023 | W02D03   | [Terminal Game Review](https://generalassembly.zoom.us/rec/share/S66I12VFkxIpaqqR83Hwb6VTtHSrYJF4o5uIiROkwNwqkqmSZBQcj2T7d-nfuq0G.-nJ6Kxmn1cESyWur)| Pickles0522! |
