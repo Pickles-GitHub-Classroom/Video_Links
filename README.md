@@ -15,3 +15,4 @@
 | 05-31-2023 | W02D03   | [Tips&Tricks](https://generalassembly.zoom.us/rec/share/dSF9w1zqjqez-fNDcsWJvKa1lR98KGPr7376ItoJGIhnVgDH911KZQNlegh-_3tM.faB68WDOjFFjqfVf)| Pickles0522! |
 | 05-31-2023 | W02D03   | [Terminal Game Review](https://generalassembly.zoom.us/rec/share/S66I12VFkxIpaqqR83Hwb6VTtHSrYJF4o5uIiROkwNwqkqmSZBQcj2T7d-nfuq0G.-nJ6Kxmn1cESyWur)| Pickles0522! |
 | 06-01-2023 | W02D04   | [jQuery Magic Review](https://generalassembly.zoom.us/rec/share/WcYmuy4pcO_4Jy_T93etuA_jBLiHRAXx0Fh199qeXOYBP6vYtHTKLuBy084k336-.Jukj_tqJqN6AjIIO)| Pickles0522! |
+| 06-02-2023 | W02D05   | [Random Imager Review](https://generalassembly.zoom.us/rec/share/VWaebnLTyPP3rUw_D7_VMN13kii8XwjFxTn1L5keVaiMfroDBZPhgfd8w2S9tCUy.pykLgfgq5YYmyrHX)| Pickles0522! |
