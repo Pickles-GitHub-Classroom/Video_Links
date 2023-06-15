@@ -17,3 +17,4 @@
 | 06-01-2023 | W02D04   | [jQuery Magic Review](https://generalassembly.zoom.us/rec/share/WcYmuy4pcO_4Jy_T93etuA_jBLiHRAXx0Fh199qeXOYBP6vYtHTKLuBy084k336-.Jukj_tqJqN6AjIIO)| Pickles0522! |
 | 06-02-2023 | W02D05   | [Random Imager Review](https://generalassembly.zoom.us/rec/share/VWaebnLTyPP3rUw_D7_VMN13kii8XwjFxTn1L5keVaiMfroDBZPhgfd8w2S9tCUy.pykLgfgq5YYmyrHX)| Pickles0522! |
 | 06-05-2023 | W03D01   | [P1 Announcement](https://generalassembly.zoom.us/rec/share/vSGEb2ueohidi6UJZYPkeFngB38VJq6T0J9MSvOAu-0f3pbVTZNr01-QKpJxt4n2.yUNfh_ebUVN4TxOt)| Pickles0522! |
+| 06-014-2023 | W04D03   | [Express Practice Lab](https://generalassembly.zoom.us/rec/share/_9YH1DOPEI-rSODYV9c677e0uuSMFStJJ4LXAw0IlYlCooxH52oFLHlipv8jTOOn.ySLE1DrAR-VBRRoc)| Pickles0522! |
