@@ -19,3 +19,6 @@
 | 06-05-2023 | W03D01   | [P1 Announcement](https://generalassembly.zoom.us/rec/share/vSGEb2ueohidi6UJZYPkeFngB38VJq6T0J9MSvOAu-0f3pbVTZNr01-QKpJxt4n2.yUNfh_ebUVN4TxOt)| Pickles0522! |
 | 06-14-2023 | W04D03   | [Express Practice Lab](https://generalassembly.zoom.us/rec/share/_9YH1DOPEI-rSODYV9c677e0uuSMFStJJ4LXAw0IlYlCooxH52oFLHlipv8jTOOn.ySLE1DrAR-VBRRoc)| Pickles0522! |
 | 06-15-2023 | W04D03   | [Github Campus Walkthrough](https://generalassembly.zoom.us/rec/share/sfKIBdqpMPFd4S0OrFD9XO0glEFoKLcdhqy5RZb8uEXm8Zr0wA9L0CgwOOLcckA.IO0pDRShvwy8ehCd)| Pickles0522! |
+| 06-15-2023 | W04D03   | [P2 Walkthrough](https://generalassembly.zoom.us/rec/share/azfI5WRUJpYwL0wJEUQ3B1KXVF15YhHw9OgdxViMjvp1tS5ZZw2yfz4y-Cwmglhq.DZ2O14CKbS0h23ge)| Pickles0522! |
+
+
