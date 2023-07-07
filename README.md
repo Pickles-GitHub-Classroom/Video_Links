@@ -20,5 +20,7 @@
 | 06-14-2023 | W04D03   | [Express Practice Lab](https://generalassembly.zoom.us/rec/share/_9YH1DOPEI-rSODYV9c677e0uuSMFStJJ4LXAw0IlYlCooxH52oFLHlipv8jTOOn.ySLE1DrAR-VBRRoc)| Pickles0522! |
 | 06-15-2023 | W04D03   | [Github Campus Walkthrough](https://generalassembly.zoom.us/rec/share/sfKIBdqpMPFd4S0OrFD9XO0glEFoKLcdhqy5RZb8uEXm8Zr0wA9L0CgwOOLcckA.IO0pDRShvwy8ehCd)| Pickles0522! |
 | 06-15-2023 | W04D03   | [P2 Walkthrough](https://generalassembly.zoom.us/rec/share/azfI5WRUJpYwL0wJEUQ3B1KXVF15YhHw9OgdxViMjvp1tS5ZZw2yfz4y-Cwmglhq.DZ2O14CKbS0h23ge)| Pickles0522! |
-
+| 06-30-2023 |          | [Landscaper 2.OH!](https://generalassembly.zoom.us/rec/share/GUsktzHpvBZnE2dtmGvt6Hkz4TyZ1qiD1oaAXWFNd0ojB-cuZfLIPTxvEhb5x51M.bGCOd0IVSyB-fqzO)| Pickles0522! |
+| 07-05-2023 |          | [Alumni Panel](https://generalassembly.zoom.us/rec/share/w-b_cJ_nHfpYhOGNgJ6F60vYjdfbynimZzNwnQk8bDZeBoS7_mkLHDX2GUB-QccV.t2sFaps38-eUOl2G)| Pickles0522! |
+| 07-07-2023 |          | [P3 Walkthrough](https://generalassembly.zoom.us/rec/share/FRBIWVYPXCvikZxZYwQPwcqOpoldb6u4RqQilPCWqB9N64faP2ttTWMO1fyBIarJ.upWosRGECJH4e5aw)| Pickles0522! |
 
